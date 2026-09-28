@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Your personal data - never upload these
+tracker_settings.json
+*.pdf
+*.xlsx
+*.xls
+categorized_transactions*.csv
+statements/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS junk
+.DS_Store
+Thumbs.db
