@@ -4,7 +4,7 @@ Turn a bank or UPI statement into a clear picture of where your money goes. Uplo
 
 **▶ Live demo:** (https://sukun-expense-tracker.streamlit.app/), where the **Try it with sample data** button works without a statement.
 
-![Where it went: spending by category](docs/where-it-went.png)
+![Where it went: spending by category]where-it-went.png
 
 ## Features
 
