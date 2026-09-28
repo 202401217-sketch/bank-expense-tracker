@@ -2,7 +2,7 @@
 
 Turn a bank or UPI statement into a clear picture of where your money goes. Upload a PDF, CSV or Excel statement, fix any category with a click, and every total and chart updates as you go.
 
-**▶ Live demo:** https://YOUR-APP-NAME.streamlit.app, where the **Try it with sample data** button works without a statement.
+**▶ Live demo:** (https://sukun-expense-tracker.streamlit.app/), where the **Try it with sample data** button works without a statement.
 
 ![Where it went: spending by category](docs/where-it-went.png)
 
